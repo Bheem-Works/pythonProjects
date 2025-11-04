@@ -1,1 +1,0 @@
-# The qr code generator in pytho 
